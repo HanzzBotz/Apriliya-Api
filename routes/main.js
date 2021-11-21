@@ -52,10 +52,10 @@ router.get('/config', (req, res) => {
         status: true,
         result: {
             prefix : 'Multi Prefix',
-            namabot: 'Apriliya BotZ',
-            namaowner: 'Loli Killer',
-            instagram: 'ariasu_62',
-            github : 'https:\/\/github.com\/LoliKillers',
+            namabot: 'Hanzz Botz',
+            namaowner: 'Hanzz-kun',
+            instagram: '@hanzz.jn13',
+            github : 'https:\/\/github.com\/HanzzBotz',
         }
     }
     res.json(config)
