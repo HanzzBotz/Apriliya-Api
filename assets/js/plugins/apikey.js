@@ -27,7 +27,7 @@
           } else {
             textnya.textContent = '[ INFO ] Apikey anda tidak valid!'
             swal("Apikey Tidak Valid!", "", "error");
-            alert('Apikey Tidak Valid. Silahkan beli apikey ke Instagram @bintang_nur_pradana');
+            alert('Apikey Tidak Valid. Silahkan beli apikey ke wa.me/6281212083267');
             amlert.classList.remove('hideop')
           }
         };
